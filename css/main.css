@@ -20,3 +20,8 @@ html {
   font: normal 100%/1.3 sans-serif;
 }
 
+.cards {
+  display: block;
+  width: 100%;
+  list-style-type: none;
+}
