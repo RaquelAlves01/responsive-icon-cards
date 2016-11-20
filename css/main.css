@@ -46,3 +46,7 @@ ul {
   margin-bottom: 0;
 }
 
+.card-body p {
+  margin-top: 0;
+  margin-bottom: 1.4em;
+}
