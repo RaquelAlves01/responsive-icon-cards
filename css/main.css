@@ -41,3 +41,8 @@ ul {
   margin: auto;
 }
 
+.card-body h2 {
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
