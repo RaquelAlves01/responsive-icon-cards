@@ -109,3 +109,17 @@ ul {
 
 }
 
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  .card-img {
+    display: block;
+    margin: auto;
+  }
+
+}
+
